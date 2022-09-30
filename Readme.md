@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Амир Ганиев](https://up.htmlacademy.ru/htmlcss/35/user/2216631).
-* Наставник: Arthur Litovko.
+* Наставник: [Arthur Litovko](https://github.com/baileys-li).
 
 ---
 
